@@ -1,0 +1,1 @@
+putting my react/nextjs snippets for the purpose of learning
